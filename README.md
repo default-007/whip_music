@@ -14,13 +14,13 @@ To get the project .......
 ##### Cloning the repository:
 
 ```bash
-git clone https://github.com/default-007/whipmusic.git
+git clone https://github.com/default-007/whip_music.git
 ```
 
 ##### Navigate into the folder and install requirements
 
 ```bash
-cd Snapgram pip install -r requirements.txt
+cd whip_music pip install -r requirements.txt
 ```
 
 ##### Install and activate Virtual
